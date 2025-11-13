@@ -1,0 +1,3 @@
+Descripcion de la pagina web Este es un periodico digital del dia evaluando las noticias que estan pasando en vivo alrededor del mundo,este lleva como fin informar a la poblacion de todo lo que pasa en el pais y el mundo.
+el propósito o fin de este es informar a la poblacion de todos los detalles que pasan desde la comodidad de sus hogares o lugares de trabajo de forma segura y que el publico este seguro en cada momento 
+index.html.---HTML....----Conectividad_aerea....---contacto...----Deportaciones_en_2025...---Entretenimiento...---Estilo_de_vida....---MLB_pone_limites_en_apuestas....----MLB_pone_limites_en_apuestas....----Turismo...---imagenes
